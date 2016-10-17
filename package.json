@@ -1,14 +1,13 @@
 {
-  "name": "node-todo",
+  "name": "senac_frontend",
   "version": "0.0.1",
-  "description": "Simple todo application.",
-  "main": "server.js",
-  "author": "Scotch",
+  "description": "Frontend para Oficina JS no Senac.",
+  "main": "app.js",
+  "author": "Kopzinski",
   "dependencies": {
     "body-parser": "^1.4.3",
     "express": "^4.13.4",
     "method-override": "^2.1.3",
-    "mongoose": "^4.4.12",
     "morgan": "^1.1.1"
   }
 }
